@@ -38,7 +38,7 @@ function App() {
           <hr />
           <small>
             <a
-              href="https://github.com/Nnebuife/Terminal-hosting-react"
+              href="https://github.com/Nnebuife/terminal-react"
               target="_blank"
               rel="noreferrer"
             >
